@@ -119,7 +119,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
-    
+
 }
 
 .main-1-but {
@@ -321,5 +321,93 @@ body {
     width: 1280px;
     height: 1163px;
     margin: 0 auto;
-   
+
+}
+
+#main-7 {
+    width: 1320px;
+    height: 616px;
+    margin-top: 20px;
+    margin: 30px auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-7-1 {
+    width: 130px;
+    height: 130px;
+
+}
+
+.main-7-7 {
+    width: 890px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.main-7-2 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 0;
+    text-align: center;
+}
+
+.main-7-3 {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -40px;
+    text-align: center;
+}
+
+.main-7-7-7 {
+    background-color: rgb(220, 97, 2);
+}
+
+.email-form {
+    display: flex;
+    gap: 0;
+}
+
+.email-input {
+    padding: 10px;
+    color: rgba(7, 2, 17, 0.3);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    border-right: none;
+    border-radius: 5px 0 0 5px;
+    width: 250px;
+}
+
+.submit-button {
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #fff;
+    background-color: rgba(255, 0, 0, 0.206);
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color:  rgb(255, 0, 0);
 }
