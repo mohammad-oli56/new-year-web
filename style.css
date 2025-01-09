@@ -2,26 +2,26 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 300;
     font-style: normal;
-  }
-  
-  body {
+}
+
+body {
     font-family: "Merriweather", serif;
     font-weight: 400;
     font-style: normal;
-  }
-  
-body{
+}
+
+body {
     font-family: "Merriweather", serif;
     font-weight: 700;
     font-style: normal;
-  }
-  
+}
+
 
 
 #head {
     border-radius: 16px;
     background: linear-gradient(180.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url("/images/Banner\ Image.png");
-    position: absolute;
+    position: relative;
     width: 1320px;
     height: 600px;
     margin: 50px 150px;
@@ -41,4 +41,41 @@ body{
     text-align: center;
     width: 632px;
     height: 246px;
+}
+
+.first-sup-title {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.first-sub-title {
+    text-align: center;
+}
+
+.first-sub-title {
+    color: rgb(255, 0, 0);
+    /* font-family: Inter; */
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: -26px;
+}
+
+.first-suptitle {
+    color: rgb(7, 2, 17);
+    /* font-family: Inter; */
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
 }
