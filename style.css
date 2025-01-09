@@ -119,8 +119,6 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
-    letter-spacing: 0%;
-    text-align: left;
     
 }
 
@@ -137,6 +135,191 @@ body {
     border: none;
     cursor: pointer;
     padding: 10px 0;
-    
+}
 
+#main-2 {
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+    width: 1320px;
+    height: 482px;
+    position: relative;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.main-2-color {
+    color: rgba(255, 0, 0, 1);
+}
+
+.main-2-dis {
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.main-2-but {
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    width: 167px;
+    height: 56px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 12px;
+}
+
+
+#main-3 {
+    width: 1320px;
+    height: 463px;
+    margin: 120px auto;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main-3-contant {
+    display: flex;
+
+}
+
+.main-3-contant-1 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+/* line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+} */
+
+.main-3-con {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 20px;
+}
+
+.main-3-contant-3 {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: -25px;
+    margin-top: -20px;
+
+}
+
+
+#main-4 {
+    width: 1320px;
+    height: 986.07px;
+
+    margin: 120px auto;
+    border-radius: 16px;
+    background-image: url("Rectangle 2.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.main-4-con-1 {
+    text-align: center;
+}
+
+.main-4-title-1 {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 15px;
+
+}
+
+.main-4-title-2 {
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 20px;
+}
+
+.main-4-title-3 {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 32px;
+
+}
+
+.main-4-img-1 {
+    margin-top: 20px;
+    margin-left: -30px;
+    padding-left: 20px;
+    border: none
+}
+
+.main-4-con-3 {
+    width: 305.69px;
+    height: 305.69px;
+    margin-top: -550px;
+    margin-left: 930px;
+}
+
+#main-5 {
+    width: 1320px;
+    height: 200px;
+    margin: 120px auto;
+    margin-bottom: 0;
+}
+
+.main-5-title-1 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 20px;
+    padding-top: 15px;
+}
+
+.main-5-title-2 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 5px;
+}
+
+.main-5-dis {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+#main-6 {
+    width: 1280px;
+    height: 1163px;
+    margin: 0 auto;
+   
 }
